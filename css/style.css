@@ -421,7 +421,7 @@ hr {
 
 /* Rotation code */
 .rotate {
-    animation: rotation .12s infinite linear;
+    animation: rotation 12s infinite linear;
 }
 
 @keyframes rotation {
