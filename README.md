@@ -14,4 +14,4 @@ HTML by [samc7](https://github.com/samc7)
 
 3D images by [CommanderAnime](https://github.com/CommanderAnime/)
 
-2D images by Spiros04
+2D images by [Spiros04](https://github.com/Spiros04)
